@@ -1,0 +1,11 @@
+
+
+    #app-context{
+        background-image: url(../../public/images/home.svg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #app-home{
+        background-image: url(../../public/images/rain.svg);   
+    }
